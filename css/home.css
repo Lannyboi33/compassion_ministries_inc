@@ -1,25 +1,6 @@
-.event-feed{
-    display:flex;
-    flex-direction: column;
-    margin: .25rem;
-    margin-bottom: 0;
-    margin-top: 2rem;
-    align-items: center;
+.calendar-container {
+    display: flex;
     justify-content: center;
-}  
-
-.event-box{
-    padding-top: 1.75rem;
-    background: #9B7CAD;
-    width: 300px;
-    height: 250px;
-    text-align: center;
-    color: #FFFFFF;
-    line-height: 2;
-    font-family: 'Open Sans', sans-serif;
-    font-weight: 700;
-    border-radius: 10px;
-    margin-bottom: 40px;
 }
 
 .social-buttons-container {
